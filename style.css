@@ -71,15 +71,11 @@ h2 {
   width: 450px;
   height: 100%;
   padding: 0px;
-  margin-left: 0px;
+  margin-left: 100px;
 }
 .add {
   margin-top: 10px;
 }
 #education {
   margin-top: 100px;
-}
-#achievements,
-td {
-  font-size: 20px;
 }
